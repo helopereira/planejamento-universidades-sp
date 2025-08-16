@@ -43,7 +43,7 @@ O sistema foi desenvolvido em um notebook Python (Google Colab) e requer o downl
 
 ### 1. Acessar o Notebook
 
-* Faça o download do arquivo sistema-tomada-de-decisão.ipynb e utilize-o para criar um novo notebbook com o Google Colab.
+* Faça o download do arquivo **`sistema-tomada-de-decisão.ipynb`** e utilize-o para criar um novo notebbook com o Google Colab.
 
 ### 2. Baixar e Preparar os Arquivos
 
