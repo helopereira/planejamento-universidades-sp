@@ -1,0 +1,47 @@
+{
+    "São Paulo": {
+        "areas": ["Administração", "Comércio", "Saúde", "Serviços", "Educação"]
+    },
+    "Campinas": {
+        "areas": ["Comércio", "Educação", "Serviços", "Saúde", "Alimentação"]
+    },
+    "Ribeirão Preto": {
+        "areas": ["Comércio", "Saúde", "Serviços", "Educação", "Administração"]
+    },
+    "São José do Rio Preto": {
+        "areas": ["Comércio", "Saúde", "Educação", "Administração", "Alimentação"]
+    },
+    "Bauru": {
+        "areas": ["Comércio", "Administração", "Saúde", "Construção", "Educação"]
+    },
+    "Piracicaba": {
+        "areas": ["Comércio", "Indústria", "Administração", "Saúde", "Educação"]
+    },
+    "Vale do Paraíba Paulista": {
+        "areas": ["Comércio", "Saúde", "Administração", "Indústria", "Serviços"]
+    },
+    "Araraquara": {
+        "areas": ["Comércio", "Administração", "Indústria", "Saúde", "Educação"]
+    },
+    "Araçatuba": {
+        "areas": ["Comércio", "Saúde", "Administração", "Educação", "Alimentação"]
+    },
+    "Marília": {
+        "areas": ["Comércio", "Indústria", "Saúde", "Administração", "Educação"]
+    },
+    "Presidente Prudente": {
+        "areas": ["Comércio", "Saúde", "Administração", "Educação", "Indústria"]
+    },
+    "Itapetininga": {
+        "areas": ["Comércio", "Agropecuária", "Administração", "Indústria", "Alimentação"]
+    },
+    "Santos": {
+        "areas": ["Comércio", "Logística", "Saúde", "Administração", "Serviços"]
+    },
+    "Assis": {
+        "areas": ["Comércio", "Administração", "Saúde", "Educação", "Alimentação"]
+    },
+    "Sorocaba": {
+        "areas": ["Comércio", "Saúde", "Indústria", "Serviços", "Educação"]
+    }
+}

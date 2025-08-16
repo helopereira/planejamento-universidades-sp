@@ -1,0 +1,122 @@
+{
+  "Administração": [
+    "Administração",
+    "Administração Pública",
+    "Ciências Contábeis",
+    "Economia",
+    "Gestão Comercial",
+    "Gestão de Recursos Humanos",
+    "Gestão de Tecnologia da Informação",
+    "Gestão Financeira",
+    "Marketing",
+    "Processos Gerenciais"
+  ],
+  "Saúde": [
+    "Enfermagem",
+    "Medicina",
+    "Odontologia",
+    "Fisioterapia",
+    "Psicologia",
+    "Farmácia",
+    "Biomedicina",
+    "Nutrição",
+    "Terapia Ocupacional",
+    "Veterinária"
+  ],
+  "Serviços": [
+    "Gestão de Turismo",
+    "Hotelaria",
+    "Relações Públicas",
+    "Publicidade e Propaganda",
+    "Design Gráfico",
+    "Moda",
+    "Gestão de Eventos",
+    "Estética",
+    "Serviço Social",
+    "Cuidado de Idosos"
+  ],
+  "Educação": [
+    "Pedagogia",
+    "Licenciatura em Ciências Biológicas",
+    "Licenciatura em Física",
+    "Licenciatura em Química",
+    "Licenciatura em Matemática",
+    "Educação Física",
+    "Psicopedagogia",
+    "Educação Infantil",
+    "Ensino de Artes",
+    "Gestão Educacional"
+  ],
+  "Alimentação": [
+    "Nutrição",
+    "Gastronomia",
+    "Tecnologia em Alimentos",
+    "Administração de Restaurantes",
+    "Gestão de Unidades de Alimentação e Nutrição",
+    "Cozinha Industrial",
+    "Processamento de Alimentos",
+    "Bolsas e Engenharia de Alimentos",
+    "Turismo e Hospitalidade",
+    "Culinária e Gastronomia Internacional"
+  ],
+  "Indústria": [
+    "Engenharia Civil",
+    "Engenharia Mecânica",
+    "Engenharia Elétrica",
+    "Engenharia de Produção",
+    "Engenharia de Software",
+    "Engenharia de Computação",
+    "Engenharia Química",
+    "Engenharia de Materiais",
+    "Engenharia Ambiental",
+    "Engenharia de Automação e Controle"
+  ],
+  "Logística": [
+    "Gestão de Logística",
+    "Logística Empresarial",
+    "Transporte e Trânsito",
+    "Gestão da Cadeia de Suprimentos",
+    "Gestão de Produção",
+    "Gestão de Estoques",
+    "Gestão de Operações",
+    "Logística Internacional",
+    "Logística Portuária",
+    "Gestão de Projetos Logísticos"
+  ],
+  "Construção": [
+    "Engenharia Civil",
+    "Tecnologia em Construção de Edifícios",
+    "Arquitetura e Urbanismo",
+    "Técnico em Edificações",
+    "Gestão da Construção",
+    "Construção de Infraestrutura",
+    "Gestão de Obras",
+    "Tecnologia em Estradas",
+    "Planejamento Urbano",
+    "Engenharia de Segurança do Trabalho"
+  ],
+  "Agropecuária": [
+    "Zootecnia",
+    "Agronomia",
+    "Medicina Veterinária",
+    "Engenharia Agrícola",
+    "Tecnologia em Produção de Alimentos",
+    "Gestão Agroindustrial",
+    "Biotecnologia",
+    "Agroecologia",
+    "Ciências Agrárias",
+    "Sistemas de Informação Agropecuária"
+  ],
+  "Comércio": [
+        "Gestão Comercial",
+        "Marketing Digital",
+        "Logística e Cadeia de Suprimentos",
+        "Vendas e Negociação",
+        "Administração de Empresas",
+        "Comércio Exterior",
+        "Gestão de E-commerce",
+        "Planejamento Estratégico",
+        "Gestão de Pessoas",
+        "Finanças Corporativas"
+    ]
+}
